@@ -1,0 +1,1 @@
+python main.py test_video.mp4 out_video.mp4
